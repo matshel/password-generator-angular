@@ -1,6 +1,6 @@
 # Password Generator with Angular
 
-## This App was made to learn the basics of Angular
+This App was made to learn the basics of Angular
 
 ### Subjects
 
